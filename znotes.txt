@@ -1,0 +1,19 @@
+
+yt viedo refernce
+https://youtu.be/FU5OoexQfxU?si=1w1pLf2Y8YXyzXrv
+
+// to start laravelprojct
+php artisan serve
+
+// to create model , table , controller at a time
+php artisan make:model Todo -mc
+
+// to migrate table
+php artisan migrate
+
+// for icons
+https://heroicons.com/
+
+// for styles tailwind css
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
